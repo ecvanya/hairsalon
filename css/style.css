@@ -137,6 +137,11 @@ h1 {
     color: white;
     transition-duration: .25s;
 }
+#second_pic {
+  display: flex; 
+  justify-content: space-around;
+  align-items: center;
+}
 .second {
     display: flex;
     flex-direction: column;
@@ -145,11 +150,6 @@ h1 {
     font-size: 40px;
     margin-left: 120px;
     color: white;
-}
-#second_pic {
-  display: flex; 
-  justify-content: space-around;
-  align-items: center;
 }
 .proto {
     font-size: 35px;
