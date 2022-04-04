@@ -457,7 +457,6 @@ h1 {
   .ik1 .ik2:hover:nth-child(4) .ik3:after{
     background: #e46880;
   }
-
 .text {
     text-shadow: 1px 1px 2px black, 0 0 1em black; /* Параметры тени */
    }
