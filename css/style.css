@@ -137,11 +137,16 @@ h1 {
     color: white;
     transition-duration: .25s;
 }
+#second_pic {
+  display: flex; 
+  justify-content: space-around;
+  align-items: center;
+}
 .second {
     display: flex;
     flex-direction: column;
     font-family: Montserrat;
-    margin-top: 200px;
+    margin-top: 120px;
     font-size: 40px;
     margin-left: 120px;
     color: white;
@@ -457,3 +462,6 @@ h1 {
   .ik1 .ik2:hover:nth-child(4) .ik3:after{
     background: #e46880;
   }
+.text {
+    text-shadow: 1px 1px 2px black, 0 0 1em black; /* Параметры тени */
+   }
