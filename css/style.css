@@ -22,7 +22,7 @@
     position: absolute;
     width: 100%;
     height: 2px;
-    background-color: #C10F62;
+    background-color: #391500;
   }
   .menu__btn > span::before {
     content: '';
@@ -59,7 +59,7 @@
     text-decoration: none;
   }
   .menu__item:hover {
-    background-color: #C10F62;
+    background-color: #391500;
   }
   #menu__toggle:checked ~ .menu__btn > span {
     transform: rotate(45deg);
