@@ -292,7 +292,7 @@ h1 {
   }
   .menu-main li {display: inline-block;}
   .menu-main li:after {
-    color: #606060;
+    color: white;
     display: inline-block;
     vertical-align:top;
   }
