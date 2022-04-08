@@ -348,7 +348,7 @@ h1 {
     display:flex;
     margin:0;
     padding:0;
-    margin-top: 5300px;
+    margin-top: 5200px;
   }
   
   .ik1 .ik2 {
@@ -380,7 +380,7 @@ h1 {
     display:block;
     width:210px;
     height:80px;
-    background: #C10F62;
+    background: #391500;
     text-align:left;
     padding-left: 20px;
     transform: rotate(-30deg) skew(25deg) translate(0,0);
@@ -405,7 +405,7 @@ h1 {
     left:-10px;
     height:20px;
     width:100%;
-    background: #c10f625e;
+    background: #391906;
     transform: .5s;
     transform: rotate(0deg) skewX(-45deg);
   }
