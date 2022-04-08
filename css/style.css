@@ -309,7 +309,7 @@ h1 {
     display: inline-block;
     transition: color .2s;
   }
-  .menu-main a, .menu-main a:visited {color: black;}
+  .menu-main a, .menu-main a:visited {color: white;}
   .menu-main a.current, .menu-main a:hover{color: white;}
   .menu-main a:before,
   .menu-main a:after {
@@ -348,7 +348,7 @@ h1 {
     display:flex;
     margin:0;
     padding:0;
-    margin-top: 5000px;
+    margin-top: 4900px;
   }
   
   .ik1 .ik2 {
@@ -369,7 +369,7 @@ h1 {
     margin:0;
     position:absolute;
     top: 30px;
-    color: #262626;
+    color: white;
     letter-spacing: 4px;
     transition: .5s;
   }
