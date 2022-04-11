@@ -139,7 +139,8 @@ h1 {
 }
 #second_pic {
   display: flex; 
-  justify-content: space-around;
+  justify-content: space-between;
+  padding-right: 300px;
   align-items: center;
 }
 .second {
